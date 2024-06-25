@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "419916164232",
+    "project_id": "av-messenger-37db3",
+    "storage_bucket": "av-messenger-37db3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419916164232:android:3dadb64e6783b1eed0c33d",
+        "android_client_info": {
+          "package_name": "com.example.avmessenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr3lvmhRTYJEjBwvkn8xVXXcH0I5HUUw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
